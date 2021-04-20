@@ -1,0 +1,9 @@
+{
+  "name": "interface",
+  "version": "0.1.1",
+  "title": "Interface",
+  "author": "eLeMeNOhPi",
+  "factorio_version": "1.0",
+  "dependencies": ["base >= 1.0"],
+  "description": "Adds some commands to Factorio for interacting with external apps."
+}
