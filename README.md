@@ -20,7 +20,7 @@ If you're having issues with docker (we certainly had a few) pay close attention
 
 ## Installation instructions for Factorio (recommended for testing purposes only)
 
-1) Purchase Factorio (I recommend via Steam, though you can buy it directly from Wube)
+1) Purchase Factorio (I recommend via the Factorio website, as more money goes to Wube this way - otherwise you can purchase it on Steam)
 2) Download Factorio.
 3) Navigate to the mods folder 
 For Windows: C:\Users\user name\AppData\Roaming\Factorio\mods\
