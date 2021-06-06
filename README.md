@@ -5,7 +5,7 @@ This repository contains the Factorio interface first described in our pre-print
 ## Installation instructions for Docker (recommended)
 
 1) Install docker  ([link](https://www.docker.com/products/docker-desktop)).
-2) Install your preferred image (such as goofball222's image [https://hub.docker.com/r/goofball222/factorio/](here)).
+2) Install your preferred image (such as goofball222's image ([here](https://hub.docker.com/r/goofball222/factorio/)).
 3) In the docker-based directory, navigate to the /factorio/mods/ sub-directory. Place the interface_0.1.1 folder found here on Git (from within the /Mod/ folder) within the /factorio/mods/ folder.
 4) Modify all required settings for your local machine. Some changes we considered include:
 4.1) Ports for RCON
